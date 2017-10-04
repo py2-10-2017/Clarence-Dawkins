@@ -22,25 +22,15 @@ class Bike(object):
             self.miles -= 5
 
 bike1 = Bike(49.99,85,65)
-bike1.ride()
-bike1.ride()
-bike1.reverse()
-bike1.displayInfo()
+bike1.ride().ride().reverse().displayInfo()
 
 print "________________________________________"
 
 bike2 = Bike(79.99,150,200)
-bike2.ride()
-bike2.ride()
-bike2.reverse()
-bike2.reverse()
-bike2.displayInfo()
+bike2.ride().ride().reverse().reverse().displayInfo()
 
 print "________________________________________"
 
 bike3 = Bike(39.99,50,40)
-bike3.reverse()
-bike3.reverse()
-bike3.reverse()
-bike3.displayInfo()
+bike3.reverse().reverse().reverse().displayInfo()
    
