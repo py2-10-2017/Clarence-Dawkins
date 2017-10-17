@@ -1,0 +1,25 @@
+.container{                           
+    width: 80%;  
+    margin: 10em auto;         
+}  
+
+.money  {
+    margin: 1em;
+    width: 12em;
+    text-align: center;
+    display: inline-block;
+    border: 0.3em black solid;
+
+}
+.building form{            
+    display: inline-block;                
+    border: black solid 0.025em;
+    width: 15em;
+    text-align: center;
+
+}
+.activities{
+    width: 50em;   
+    text-align: top;
+   
+}

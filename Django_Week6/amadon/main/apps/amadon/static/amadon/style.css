@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient( silver, white, silver);
+}
+table {
+    width: 50%;
+    margin: 5em;
+    border: black solid thin;
+    text-align: left;
+
+}
+
+
+input {
+    box-shadow: .25em .25em .25em 0em black;
+}
